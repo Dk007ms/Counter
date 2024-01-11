@@ -1,0 +1,60 @@
+
+.reset{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 4rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.resetimg{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 4rem;
+}
+
+.increase{
+    width: 3rem;
+    height: 3rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.increasingimg{
+    width: 2rem;
+    height: 2rem;
+    object-fit: contain;
+}
+
+.decrease{
+    width: 3rem;
+    height: 3rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.decreaseimg{
+    width: 2rem;
+    height: 2rem;
+    object-fit: contain;
+}
+
+.buttons{
+    width: 14rem;
+    display: flex;
+    justify-content: space-between;
+}

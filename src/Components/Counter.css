@@ -1,0 +1,24 @@
+.counter{
+    background-color: yellow;
+    opacity: 90%;
+    width: 25rem;
+    height: 30rem;
+    border-radius: 3rem;
+    box-shadow: 0px 0px 0px 10px white;
+    color: black;
+    font-size: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    @media (max-width: 426px) {
+       width: 80%;
+       height: 80%;
+    }
+}
+
+
+
+
+  
